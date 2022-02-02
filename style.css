@@ -1,0 +1,11 @@
+body {
+  background-color:rgb(64, 233, 255);
+  font-family:"Comic Sans MS", sans-serif;
+}
+h1 {
+  text-align:center;
+  background-color:rgb(255,255,255);
+}
+#dog {
+  text-align:center;
+}
